@@ -237,4 +237,4 @@ sorting-assignment/
 
 ## Submission
 
-`EB3/67333/23 – Boaz Ombati Nyakundi – [Link to Repository]`
+`EB3/67333/23 – Boaz Ombati Nyakundi – https://github.com/nyakundi2/sorting-assignment
